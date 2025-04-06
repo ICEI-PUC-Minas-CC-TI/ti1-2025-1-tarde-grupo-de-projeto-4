@@ -1,21 +1,20 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=19043278&assignment_repo_type=AssignmentRepo)
-# Nome do projeto
+# Web Security
 
 Escreva um ou dois parágrafo resumindo o objetivo do seu projeto.
 
 ## Alunos integrantes da equipe
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+- Lucas Santiago Pereira
+- Guilherme Cardoso Ferreira da Silva
+- Leonardo Henrique Bomtempo Junior
+- Pedro Henrique Dias Pereira
+- Marcos Vinícius Lopes Ferreira
+- Mia Canaan Rocha Oliveira
 
 ## Professores responsáveis
 
-* Nome completo do professor 1
-* Nome completo do professor 2
-
-
+- Luciana Mara Freitas Diniz
 
 ## Instruções de utilização 
 
