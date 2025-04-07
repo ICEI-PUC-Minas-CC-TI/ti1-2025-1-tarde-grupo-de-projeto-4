@@ -54,20 +54,20 @@ O projeto é direcionado principalmente para idosos acima de 60 anos – tanto a
 # Product Discovery
 
 ## Etapa de Entendimento
-<img src="./images/our_images/mapa-stake-holders/mapa-stake-holders_page-0001.jpg">
-<img src="./images/our_images/entrevistas-qualitativas/entrevistas-qualitativas_page-0001.jpg">
-<img src="./images/our_images/entrevistas-qualitativas/entrevistas-qualitativas_page-0002.jpg">
-<img src="./images/our_images/entrevistas-qualitativas/entrevistas-qualitativas_page-0003.jpg">
-<img src="./images/our_images/entrevistas-qualitativas/entrevistas-qualitativas_page-0004.jpg">
-<img src="./images/our_images/entrevistas-qualitativas/entrevistas-qualitativas_page-0005.jpg">
-<img src="./images/our_images/entrevistas-qualitativas/entrevistas-qualitativas_page-0006.jpg">
+<img src="./images/mapa-stake-holders_page-0001.jpg">
+<img src="./images/entrevistas-qualitativas_page-0001.jpg">
+<img src="./images/entrevistas-qualitativas_page-0002.jpg">
+<img src="./images/entrevistas-qualitativas_page-0003.jpg">
+<img src="./images/entrevistas-qualitativas_page-0004.jpg">
+<img src="./images/entrevistas-qualitativas_page-0005.jpg">
+<img src="./images/entrevistas-qualitativas_page-0006.jpg">
 
 ## Etapa de Definição
 
 ### Personas e Proposta de Valor
 
-<img src="./images/our_images/trabalho_ golpes cibernéticos-8_page-0001.jpg">
-<img src="./images/our_images/trabalho_ golpes cibernéticos-8_page-0002.jpg">
+<img src="./images/trabalho_ golpes cibernéticos-8_page-0001.jpg">
+<img src="./images/trabalho_ golpes cibernéticos-8_page-0002.jpg">
 
 # Product Design
 
@@ -75,11 +75,11 @@ Nesse momento, vamos transformar os insights e validações obtidos em soluçõe
 
 ## Histórias de Usuários
 
-<img src="./images/our_images/trabalho_ golpes cibernéticos - Exploração 1.jpg">
+<img src="./images/trabalho_ golpes cibernéticos - Exploração 1.jpg">
 
 ## Requisitos
 
-<img src="./images/our_images/trabalho_ golpes cibernéticos - Quadro 1.jpg">
+<img src="./images/trabalho_ golpes cibernéticos - Quadro 1.jpg">
 
 ## Projeto de Interface
 
@@ -89,13 +89,13 @@ Artefatos relacionados com a interface e a interacão do usuário na proposta de
 
 Esta seria a tela principal do nosso projeto.
 
-<img src="./images/our_images/security_appp/security_appp_page-0001.jpg">
+<img src="./images/security_appp_page-0001.jpg">
 
 ### User Flow
 
 Fluxo de Usuário
 
-<img src="./images/our_images/user-flow/user-flow_page-0001.jpg">
+<img src="./images/user-flow_page-0001.jpg">
 
 ### Protótipo Interativo
 
