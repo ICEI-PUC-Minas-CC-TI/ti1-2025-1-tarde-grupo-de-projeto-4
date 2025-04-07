@@ -6,11 +6,12 @@ Informações básicas do projeto.
 * **Repositório GitHub:** [https://github.com/ICEI-PUC-Minas-CC-TI/ti1-2025-1-tarde-grupo-de-projeto-4]
 * **Membros da equipe:**
 
-  * [Lucas Santiago](https://github.com/fulano) 
-  * [Guilherme Cardoso](https://github.com/beltrano) 
-  * [Leonardo Bomtempo](https://github.com/cicrano) 
-  * [Pedro Henrique]
-  * [Marcos]
+  * Lucas Santiago
+  * Guilherme Cardoso
+  * Leonardo Bomtempo
+  * Pedro Henrique
+  * Marcos Vinicius
+  * Mia Canaan
 
 A documentação do projeto é estruturada da seguinte forma:
 
@@ -34,12 +35,6 @@ Os golpes digitais direcionados aos idosos têm se tornado cada vez mais frequen
 
 Além disso, com o crescimento da internet e dos serviços digitais, os idosos enfrentam desafios para se adaptar a essa nova realidade. Criminosos aproveitam essa vulnerabilidade aplicando golpes como falsos boletos, mensagens fraudulentas e promessas enganosas. Em muitos casos, os idosos não sabem onde buscar ajuda ou como denunciar esses crimes.
 
-> **Orientações**:
->
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
-
 ## Objetivos
 
 O principal objetivo deste projeto é desenvolver um site simples e intuitivo que ensine os idosos a identificar golpes digitais e adotar medidas preventivas. Entre os objetivos específicos, destacam-se:
@@ -48,28 +43,13 @@ O principal objetivo deste projeto é desenvolver um site simples e intuitivo qu
 - Prevenir: Oferecer dicas práticas e exemplos reais para reduzir a vulnerabilidade do público-alvo.
 - Orientar: Disponibilizar informações sobre como agir em caso de tentativa de golpe, com links para canais de denúncia e suporte.
 
-> **Orientações**:
->
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
-
 ## Justificativa
 
 A inclusão digital dos idosos é fundamental, mas deve vir acompanhada de medidas de segurança. Muitas iniciativas se concentram apenas em ensinar o uso básico da internet, ignorando os riscos associados. Nosso projeto preenche essa lacuna, oferecendo informações essenciais para prevenir golpes e proteger uma parcela da população que, apesar de estar cada vez mais conectada, ainda é suscetível a fraudes.
 
->
-> **Orientações**:
->
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
-
 ## Público-Alvo
 
 O projeto é direcionado principalmente para idosos acima de 60 anos – tanto aqueles que estão iniciando sua experiência na internet quanto os que já têm alguma familiaridade, mas ainda podem ser enganados. Adicionalmente, o conteúdo será útil para familiares e cuidadores, que necessitam orientar os idosos sobre práticas seguras no ambiente digital.
-
->
-> **Orientações**:
->
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
 
 # Product Discovery
 
