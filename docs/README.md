@@ -2,13 +2,15 @@
 
 Informações básicas do projeto.
 
-* **Projeto:** [NOME DO PROJETO]
-* **Repositório GitHub:** [LINK PARA O REPOSITÓRIO NO GITHUB]
+* **Projeto:** Web Security
+* **Repositório GitHub:** [https://github.com/ICEI-PUC-Minas-CC-TI/ti1-2025-1-tarde-grupo-de-projeto-4]
 * **Membros da equipe:**
 
-  * [Fulano](https://github.com/fulano) ⚠️ EXEMPLO ⚠️
-  * [Beltrano](https://github.com/beltrano) ⚠️ EXEMPLO ⚠️
-  * [Cicrano](https://github.com/cicrano) ⚠️ EXEMPLO ⚠️
+  * [Lucas Santiago](https://github.com/fulano) 
+  * [Guilherme Cardoso](https://github.com/beltrano) 
+  * [Leonardo Bomtempo](https://github.com/cicrano) 
+  * [Pedro Henrique]
+  * [Marcos]
 
 A documentação do projeto é estruturada da seguinte forma:
 
@@ -24,16 +26,14 @@ A documentação do projeto é estruturada da seguinte forma:
 
 # Contexto
 
-Detalhes sobre o espaço de problema, os objetivos do projeto, sua justificativa e público-alvo.
+Este projeto tem como objetivo desenvolver um site educativo e acessível para auxiliar idosos – e seus familiares e cuidadores – a reconhecer, prevenir e agir contra golpes digitais. Criaremos uma plataforma simples, intuitiva e com linguagem clara, que ajudará a mitigar os prejuízos financeiros e emocionais causados por fraudes online.
 
 ## Problema
 
-**✳️✳️✳️ COLOQUE AQUI O SEU TEXTO ✳️✳️✳️**
+Os golpes digitais direcionados aos idosos têm se tornado cada vez mais frequentes. Muitas vezes, esse público não possui a familiaridade necessária com a tecnologia, o que os torna vulneráveis a fraudes online, como golpes de phishing, falsas ofertas e esquemas de investimento fraudulentos. Tais fraudes exploram a falta de conhecimento digital, causando prejuízos significativos – tanto financeiros quanto emocionais.
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Nesse momento você deve apresentar o problema que a sua aplicação deve resolver. No entanto, não é a hora de comentar sobre a aplicação. Descreva também o contexto em que essa aplicação será usada, se houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de fato existir, pois ainda não é a hora de apresentar requisitos detalhados ou projetos.
->
+Além disso, com o crescimento da internet e dos serviços digitais, os idosos enfrentam desafios para se adaptar a essa nova realidade. Criminosos aproveitam essa vulnerabilidade aplicando golpes como falsos boletos, mensagens fraudulentas e promessas enganosas. Em muitos casos, os idosos não sabem onde buscar ajuda ou como denunciar esses crimes.
+
 > **Orientações**:
 >
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
@@ -42,25 +42,20 @@ Detalhes sobre o espaço de problema, os objetivos do projeto, sua justificativa
 
 ## Objetivos
 
-**✳️✳️✳️ COLOQUE AQUI O SEU TEXTO ✳️✳️✳️**
+O principal objetivo deste projeto é desenvolver um site simples e intuitivo que ensine os idosos a identificar golpes digitais e adotar medidas preventivas. Entre os objetivos específicos, destacam-se:
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
->
+- Educar: Fornecer conteúdos que esclareçam os riscos dos golpes digitais e ensinem a identificar fraudes.
+- Prevenir: Oferecer dicas práticas e exemplos reais para reduzir a vulnerabilidade do público-alvo.
+- Orientar: Disponibilizar informações sobre como agir em caso de tentativa de golpe, com links para canais de denúncia e suporte.
+
 > **Orientações**:
 >
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
-**✳️✳️✳️ COLOQUE AQUI O SEU TEXTO ✳️✳️✳️**
+A inclusão digital dos idosos é fundamental, mas deve vir acompanhada de medidas de segurança. Muitas iniciativas se concentram apenas em ensinar o uso básico da internet, ignorando os riscos associados. Nosso projeto preenche essa lacuna, oferecendo informações essenciais para prevenir golpes e proteger uma parcela da população que, apesar de estar cada vez mais conectada, ainda é suscetível a fraudes.
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
->
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
 >
 > **Orientações**:
 >
@@ -68,13 +63,8 @@ Detalhes sobre o espaço de problema, os objetivos do projeto, sua justificativa
 
 ## Público-Alvo
 
-**✳️✳️✳️ COLOQUE AQUI O SEU TEXTO ✳️✳️✳️**
+O projeto é direcionado principalmente para idosos acima de 60 anos – tanto aqueles que estão iniciando sua experiência na internet quanto os que já têm alguma familiaridade, mas ainda podem ser enganados. Adicionalmente, o conteúdo será útil para familiares e cuidadores, que necessitam orientar os idosos sobre práticas seguras no ambiente digital.
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Descreva quais são as pessoas que usarão a sua aplicação indicando os diferentes perfis. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição textual, ou diagramas de personas, mapa de stakeholders, ou como o grupo achar mais conveniente.
 >
 > **Orientações**:
 >
